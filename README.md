@@ -1,5 +1,5 @@
 # raff-postalgo
-PostalGo job is a easy to use job to install in your FiveM server - custom settings
+PostalGo job is a easy to use job to install in your FiveM server - with custom settings
 
 Just fill config.lua based on your own preferences.
 
@@ -14,6 +14,8 @@ Select how much to pay for each delivered package.
 Change your custom progressbar time for deliver and load packages.
 
 Change vehicle spawn location, but i suggest to leave as standard.
+
+Blip and waypoints already set up.
 
 # Dependencies
 [okoknotify](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758).
