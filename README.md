@@ -16,5 +16,5 @@ Change your custom progressbar time for deliver and load packages.
 Change vehicle spawn location, but i suggest to leave as standard.
 
 # Dependencies
-[okoknotify]([https://github.com/Mobius1/rprogress](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758)https://forum.cfx.re/t/okoknotify-standalone-paid/3907758).
+[okoknotify](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758).
 [RProgress](https://github.com/Mobius1/rprogress).
