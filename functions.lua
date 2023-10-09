@@ -43,7 +43,7 @@ function startJob(pacchi)
                 drawTxt('~w~Press ~r~[E]~w~ to drop the package')
                 if IsControlJustPressed(0, 38) then
                     exports.rprogress:Start("Dropping package. . .", Config.dropPackageTime)
-                    TriggerServerEvent('Postal:cash', Config.currentJobPay)
+                    TriggerServerEvent('Postal:cash')
                     loadJob()
                     break
                 end
